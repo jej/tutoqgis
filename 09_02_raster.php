@@ -104,7 +104,7 @@
     						</a>
     					</figure>
     				</div>
-    				<p>L'axe horizontal représente les valeurs de pixels, donc ici d'élévation. L'axe vertical représente le nombre de pixels ayant une valeur donnée. Il est également possible de lire les valeurs minimale et maximale sou l'histogramme.</p>
+    				<p>L'axe horizontal représente les valeurs de pixels, donc ici d'élévation. L'axe vertical représente le nombre de pixels ayant une valeur donnée. Il est également possible de lire les valeurs minimale et maximale sous l'histogramme.</p>
     				<p>On peut voir d'un seul coup d'&#339;il que beaucoup de pixels ont une valeur inférieure à 100 mètres d'élévation.</p>
     				<div class="manip">
     					<p>Il est possible de zoomer sur le graphique en dessinant un rectangle, ou bien en modifiant les valeurs min et max. Un clic droit permet de revenir à la vue initiale.</p>
